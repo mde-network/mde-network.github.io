@@ -1,3 +1,8 @@
+## Novedades
+
+15/07/2017: Creación de la página web
+18/07/2017: Reunión de la red MDE en las JISBD'2017
+
 ## Presentación
 
 En el campo de la Ingeniería del Software, el [Desarrollo de Software Dirigido por Modelos](https://en.wikipedia.org/wiki/Model-driven_engineering) (en inglés, MDE) es un paradigma donde los modelos reemplazan al código como artefacto central del proceso de desarrollo. Trabajar a un alto nivel de abstracción mejora la productividad y calidad, facilita la portabilidad a nuevas plataformas y reduce los costes de mantenimiento, entre otros beneficios. Las técnicas MDE se utilizan en una gran variedad de industrias, desde automoción, telecomunicaciones, banca, sistemas embebidos, etc. Como punto de partida, redes científicas previas han permitido crear una comunidad activa en MDE y establecer lazos de colaboración, evidenciados por ejemplo en la existencia de un track temático en las ["Jornadas de Ingeniería del Software y Bases de Datos" (JISBD)](http://www.sistedes.es/jornadas/jisbd). 
@@ -10,47 +15,27 @@ Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Din
 
 ## Miembros
 
+La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. 
 
+Los investigadores que formalmente forman parte forman parte de la red son los siguientes:
 
+Nombre                 | Universidad  | Grupo de Investigación
+Robert Clarisó         | Universitat Oberta de Catalunya   | SOM Research Lab
+Antonio Vallecillo     | Universidad de Málaga      | ATENEA       
+Francisco Ruiz         | Universidad de Castilla-La Mancha  | Alarcos
+Vicente Pelechano      | Universitat Politècnica de València | TaTAmI
+Pedro José Clemente    | Universidad de Extremedura | Quercus
+Luis Iribarne          | Universidad de Almería | Informática Aplicada TIC
+Juan de Lara           | Universidad Autónoma de Madrid | miso
+Ernest Teniente        | Universidad Politécnica de Catalunya | MPI
+Jesús J. García Molina | Universidad de Murcia | Modelum
+Juan Manuel Vara       | Universidad Rey Juan Carlos | Kybele
 
 ## Actividades 
 
+1. Reunión de la red MDE en las [JISBD'2017]([https://fg.ull.es/sistedes2017/]) (18 de julio de 2017, La Laguna)
+
 ## Recursos
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mde-network/mde-network.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mde-network/mde-network.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Modeling Languages portal](http://modeling-languages.com/)
+- [Model-Driven Software Engineering in Practice](http://mdse-book.com/)
