@@ -17,11 +17,11 @@ Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Din
 
 La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. 
 
-Los investigadores que formalmente forman parte forman parte de la red son los siguientes:
+Los investigadores que forman parte del equipo de trabajo de la red son los siguientes:
 
 Nombre                 | Universidad  | Grupo de Investigación
 -----------------------| ------------ | ----------------------
-Robert Clarisó         | Universitat Oberta de Catalunya   | SOM Research Lab
+[Robert Clarisó (coordinador)][http://w.uoc.edu/robert-clariso] | Universitat Oberta de Catalunya   | [SOM Research Lab][http://som-research.uoc.edu]
 Antonio Vallecillo     | Universidad de Málaga      | ATENEA       
 Francisco Ruiz         | Universidad de Castilla-La Mancha  | Alarcos
 Vicente Pelechano      | Universitat Politècnica de València | TaTAmI
