@@ -50,6 +50,7 @@ Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybel
 - [MODELS](http://www.modelsconference.org): ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
 - [STAF](http://www.informatik.uni-marburg.de/staf2017/): Software Technologies: Applications and Foundations
 - [ECMFA](http://ecmfaconference.wixsite.com/ecmfa2017): European Conference on Modelling Foundations and Applications
+- [SLE](http://www.sleconf.org/): ACM SIGPLAN International Conference on Software Language Engineering
 
 ### Revistas científicas
 - [SoSyM](http://www.sosym.org/): International Journal on Software and Systems Modeling
