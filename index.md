@@ -21,7 +21,7 @@ Los investigadores que forman parte del equipo de trabajo de la red son los sigu
 
 Nombre                 | Universidad  | Grupo de Investigación
 -----------------------| ------------ | ----------------------
-[Robert Clarisó (coordinador)][http://w.uoc.edu/robert-clariso] | Universitat Oberta de Catalunya   | [SOM Research Lab][http://som-research.uoc.edu]
+[Robert Clarisó (coordinador)](http://w.uoc.edu/robert-clariso) | Universitat Oberta de Catalunya   | [SOM Research Lab][http://som-research.uoc.edu]
 Antonio Vallecillo     | Universidad de Málaga      | ATENEA       
 Francisco Ruiz         | Universidad de Castilla-La Mancha  | Alarcos
 Vicente Pelechano      | Universitat Politècnica de València | TaTAmI
