@@ -7,7 +7,12 @@ Esta red temática persigue consolidar esta comunidad aglutinando a los grupos d
 
 Esta red tiene dos prioridades principales. En primer lugar, impulsar la excelencia científica de la comunidad MDE, p.ej. ampliando las colaboraciones y proyectos internacionales. En segundo lugar, consolidar la adopción de tecnologías MDE a nivel industrial, a través de iniciativas como la realización de doctorados industriales o la participación en clústers empresariales y plataformas tecnológicas. Las acciones previstas incluyen reuniones semestrales, estancias cortas entre investigadores de la red, visitas de investigadores internacionales, una escuela de verano para estudiantes y jóvenes investigadores en MDE y un portal orientado a potenciar colaboraciones con empresas. Para fomentar la internacionalización y maximizar su impacto, algunas de estas acciones se vincularán a eventos científicos internacionales organizados por miembros de la red.
 
+Esta red temática ha sido financiada dentro de la convocatoria de Acciones de Dinamización "Redes de Excelencia" del Ministerio de Economía y Competitividad (TIN2016-81836-REDT, 2017-2018).
+
 ## Miembros
+
+
+
 
 ## Actividades 
 
