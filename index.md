@@ -46,6 +46,9 @@ Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybel
 
 - [Modeling Languages portal](http://modeling-languages.com/)
 
+### Eventos científicos
+- [MODELS](http://www.modelsconference.org): ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
+
 ### Herramientas
 
 - [Papyrus](https://eclipse.org/papyrus/)
