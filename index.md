@@ -23,19 +23,19 @@ Los investigadores que forman parte del equipo de trabajo de la red son los sigu
 Nombre                 | Universidad  | Grupo de Investigación
 -----------------------| ------------ | ----------------------
 [Robert Clarisó (coordinador)](http://w.uoc.edu/robert-clariso) | Universitat Oberta de Catalunya   | [SOM Research Lab](http://som-research.uoc.edu)
-Antonio Vallecillo     | Universidad de Málaga      | ATENEA       
-Francisco Ruiz         | Universidad de Castilla-La Mancha  | Alarcos
-Vicente Pelechano      | Universitat Politècnica de València | TaTAmI
-Pedro José Clemente    | Universidad de Extremedura | Quercus
-Luis Iribarne          | Universidad de Almería | Informática Aplicada TIC
-Juan de Lara           | Universidad Autónoma de Madrid | miso
-Ernest Teniente        | Universidad Politécnica de Catalunya | MPI
-Jesús J. García Molina | Universidad de Murcia | Modelum
-Juan Manuel Vara       | Universidad Rey Juan Carlos | Kybele
+Antonio Vallecillo     | Universidad de Málaga      | [ATENEA](http://atenea.lcc.uma.es/)       
+Francisco Ruiz         | Universidad de Castilla-La Mancha  | [Alarcos](http://alarcos.esi.uclm.es/)
+Vicente Pelechano      | Universitat Politècnica de València | [TaTAmI](https://tatami.dsic.upv.es/group/index.php)
+Pedro José Clemente    | Universidad de Extremedura | [Quercus](https://www.unex.es/investigacion/grupos/quercus)
+Luis Iribarne          | Universidad de Almería | [Informática Aplicada TIC](http://acg.ual.es/)
+Juan de Lara           | Universidad Autónoma de Madrid | [miso](http://miso.es/)
+Ernest Teniente        | Universidad Politécnica de Catalunya | [MPI](http://imp.upc.edu)
+Jesús J. García Molina | Universidad de Murcia | [Modelum](http://www.modelum.es/)
+Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybele.es)
 
 ## Actividades 
 
-1. Reunión de la red MDE en las [JISBD'2017]([https://fg.ull.es/sistedes2017/]) (18 de julio de 2017, La Laguna)
+1. Reunión de la red MDE en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
 
 ## Recursos
 
