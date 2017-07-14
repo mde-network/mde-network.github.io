@@ -1,6 +1,7 @@
 ## Novedades
 
 *15/07/2017:* Creación de la página web
+
 *18/07/2017:* Reunión de la red MDE en las JISBD'2017
 
 ## Presentación
