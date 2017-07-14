@@ -20,6 +20,7 @@ La red está abierta a la participación de investigadores, profesionales, y emp
 Los investigadores que formalmente forman parte forman parte de la red son los siguientes:
 
 Nombre                 | Universidad  | Grupo de Investigación
+-----------------------| ------------ | ----------------------
 Robert Clarisó         | Universitat Oberta de Catalunya   | SOM Research Lab
 Antonio Vallecillo     | Universidad de Málaga      | ATENEA       
 Francisco Ruiz         | Universidad de Castilla-La Mancha  | Alarcos
