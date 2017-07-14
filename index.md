@@ -1,10 +1,17 @@
-## Objetivos
+## Presentación
 
-## Quienes somos?
+En el campo de la Ingeniería del Software, el Desarrollo de Software Dirigido por Modelos (en inglés, MDE) es un paradigma donde los modelos reemplazan al código como artefacto central del proceso de desarrollo. Trabajar a un alto nivel de abstracción mejora la productividad y calidad, facilita la portabilidad a nuevas plataformas y reduce los costes de mantenimiento, entre otros beneficios. Las técnicas MDE se utilizan en una gran variedad de industrias, desde automoción, telecomunicaciones, banca, sistemas embebidos, etc. Como punto de partida, redes científicas previas han permitido crear una comunidad activa en MDE y establecer lazos de colaboración,
+evidenciados por ejemplo en la existencia de un track temático en las "Jornadas de Ingeniería del Software y Bases de Datos" (JISBD). 
 
-## Actividades de la Red
+Esta red temática persigue consolidar esta comunidad aglutinando a los grupos de investigación y empresas del ámbito de MDE y explorando los principales retos científicos y técnicos de este ámbito en la actualidad: escalabilidad, usabilidad, construcción e integración de herramientas, nuevos campos de aplicación, etc.
 
-## Miembros de la Red
+Esta red tiene dos prioridades principales. En primer lugar, impulsar la excelencia científica de la comunidad MDE, p.ej. ampliando las colaboraciones y proyectos internacionales. En segundo lugar, consolidar la adopción de tecnologías MDE a nivel industrial, a través de iniciativas como la realización de doctorados industriales o la participación en clústers empresariales y plataformas tecnológicas. Las acciones previstas incluyen reuniones semestrales, estancias cortas entre investigadores de la red, visitas de investigadores internacionales, una escuela de verano para estudiantes y jóvenes investigadores en MDE y un portal orientado a potenciar colaboraciones con empresas. Para fomentar la internacionalización y maximizar su impacto, algunas de estas acciones se vincularán a eventos científicos internacionales organizados por miembros de la red.
+
+## Miembros
+
+## Actividades 
+
+## Recursos
 
 ## Welcome to GitHub Pages
 
