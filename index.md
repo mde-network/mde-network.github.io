@@ -1,7 +1,5 @@
 ## Novedades
 
-*15/07/2017:* Creación de la página web
-
 *18/07/2017:* Reunión de la red MDE en las JISBD'2017
 
 ## Presentación
@@ -16,7 +14,7 @@ Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Din
 
 ## Miembros
 
-La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. 
+La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. Si quieres formar parte de la red, contacta con el [coordinador de la red](http://w.uoc.edu/robert-clariso).
 
 Los investigadores que forman parte del equipo de trabajo de la red son los siguientes:
 
@@ -39,5 +37,18 @@ Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybel
 
 ## Recursos
 
-- [Modeling Languages portal](http://modeling-languages.com/)
+### Libros y recursos docentes
+
+- [Desarrollo de Software Dirigido por Modelos: Conceptos, Métodos y Herramientas](http://www.ra-ma.es/libros/DESARROLLO-DE-SOFTWARE-DIRIGIDO-POR-MODELOS-CONCEPTOS-METODOS-Y-HERRAMIENTAS/82019/978-84-9964-215-4)
 - [Model-Driven Software Engineering in Practice](http://mdse-book.com/)
+
+### Enlaces
+
+- [Modeling Languages portal](http://modeling-languages.com/)
+
+### Herramientas
+
+- [Papyrus](https://eclipse.org/papyrus/)
+- [Eclipse Modeling Framework](http://www.eclipse.org/modeling/emf/)
+- [ATL Transformation Language](https://eclipse.org/atl/)
+- [Alloy](http://alloy.mit.edu)
