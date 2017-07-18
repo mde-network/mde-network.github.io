@@ -16,20 +16,22 @@ Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Din
 
 La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. Si quieres formar parte de la red, contacta con el [coordinador de la red](http://w.uoc.edu/robert-clariso).
 
-Los investigadores que forman parte del equipo de trabajo de la red son los siguientes:
+Los grupos de investigación, empresas e investigadores que forman parte del equipo de trabajo de la red son los siguientes:
 
-Nombre                 | Universidad  | Grupo de Investigación
+Grupo de Investigación | Universidad  | Responsable en la red
 -----------------------| ------------ | ----------------------
-[Robert Clarisó (coordinador)](http://w.uoc.edu/robert-clariso) | Universitat Oberta de Catalunya   | [SOM Research Lab](http://som-research.uoc.edu)
-Antonio Vallecillo     | Universidad de Málaga      | [ATENEA](http://atenea.lcc.uma.es/)       
-Francisco Ruiz         | Universidad de Castilla-La Mancha  | [Alarcos](http://alarcos.esi.uclm.es/)
-Vicente Pelechano      | Universitat Politècnica de València | [TaTAmI](https://tatami.dsic.upv.es/group/index.php)
-Pedro José Clemente    | Universidad de Extremedura | [Quercus](https://www.unex.es/investigacion/grupos/quercus)
-Luis Iribarne          | Universidad de Almería | [Informática Aplicada TIC](http://acg.ual.es/)
-Juan de Lara           | Universidad Autónoma de Madrid | [miso](http://miso.es/)
-Ernest Teniente        | Universidad Politécnica de Catalunya | [MPI](http://imp.upc.edu)
-Jesús J. García Molina | Universidad de Murcia | [Modelum](http://www.modelum.es/)
-Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybele.es)
+[Alarcos](http://alarcos.esi.uclm.es/) | Universidad de Castilla-La Mancha | Francisco Ruiz
+[ATENEA](http://atenea.lcc.uma.es/) | Universidad de Málaga | Antonio Vallecillo
+[Informática Aplicada TIC](http://acg.ual.es/) | Universidad de Almería | Luis Iribarne
+[Kybele](http://www.kybele.es) | Universidad Rey Juan Carlos | Juan Manuel Vara 
+[miso](http://miso.es/) | Universidad Autónoma de Madrid | Juan de Lara
+[Modelum](http://www.modelum.es/) | Universidad de Murcia | Jesús J. García Molina  
+[MPI](http://imp.upc.edu) | Universidad Politécnica de Catalunya | Ernest Teniente        
+[Quercus](https://www.unex.es/investigacion/grupos/quercus) | Universidad de Extremadura | Pedro José Clemente
+[SOM Research Lab](http://som-research.uoc.edu) | Universitat Oberta de Catalunaya | [Robert Clarisó](https://som-research.uoc.edu/robert-clariso/)(*) 
+[TaTAmI](https://tatami.dsic.upv.es/group/index.php) | Universitat Politècnica de València | Vicente Pelechano
+
+(*) Coordinador de la red
 
 ## Actividades 
 
@@ -43,10 +45,11 @@ Juan Manuel Vara       | Universidad Rey Juan Carlos | [Kybele](http://www.kybel
 - [Model-Driven Software Engineering in Practice](http://mdse-book.com/)
 
 ### Enlaces
-
+- [Lista de distribución de la red DSDM](https://sol10.lcc.uma.es/mailman/listinfo/red-dsdm)
+- [Portal de la red DSDM 2015-2016](https://sol10.lcc.uma.es/mailman/listinfo/red-dsdm)
 - [Modeling Languages portal](http://modeling-languages.com/)
 
-### Eventos
+### Eventos científicos
 - [MODELS](http://www.modelsconference.org): ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
 - [STAF](http://www.informatik.uni-marburg.de/staf2017/): Software Technologies: Applications and Foundations
 - [ECMFA](http://ecmfaconference.wixsite.com/ecmfa2017): European Conference on Modelling Foundations and Applications
