@@ -81,3 +81,7 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 - [Eclipse Modeling Framework](http://www.eclipse.org/modeling/emf/)
 - [ATL Transformation Language](https://eclipse.org/atl/)
 - [Alloy](http://alloy.mit.edu)
+
+## Sobre la web
+
+Esta web está alojada en [GitHub Pages](https://pages.github.com/). El código fuente de esta web está disponible en formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) en el proyecto [mde-network.github.io](https://github.com/mde-network/mde-network.github.io) en Git Hub. Si queréis añadir o modificar información a esta página, podéis enviar un pull request o contactar con el coordinador de la red (Robert Clarisó, rclariso [AT] uoc.edu).
