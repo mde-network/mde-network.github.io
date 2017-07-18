@@ -43,7 +43,7 @@ Investigador           | Universidad         | Correo electrónico
  | | 
 
 
-## Beneficios para los miembros
+## Financiación
 
 Los integrantes de la red MDE pueden obtener financiación para desplazamientos a las reuniones de la red y estancias breves de investigación entre grupos de investigación o empresas (viaje, hotel, dietas, etc.). La red MDE *no* puede financiar gastos de inscripción a congresos u otros gastos relacionados con la publicación de artículos (traducciones, costes open access, etc.).
 
