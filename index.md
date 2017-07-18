@@ -11,6 +11,7 @@ Esta red temática persigue consolidar esta comunidad aglutinando a los grupos d
 Esta red tiene dos prioridades principales. En primer lugar, impulsar la excelencia científica de la comunidad MDE, p.ej. ampliando las colaboraciones y proyectos internacionales. En segundo lugar, consolidar la adopción de tecnologías MDE a nivel industrial, a través de iniciativas como la realización de doctorados industriales o la participación en clústers empresariales y plataformas tecnológicas. Las acciones previstas incluyen reuniones semestrales, estancias cortas entre investigadores de la red, visitas de investigadores internacionales, una escuela de verano para estudiantes y jóvenes investigadores en MDE y un portal orientado a potenciar colaboraciones con empresas. Para fomentar la internacionalización y maximizar su impacto, algunas de estas acciones se vincularán a eventos científicos internacionales organizados por miembros de la red.
 
 Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Dinamización "Redes de Excelencia"](http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=ec1ff5355f154510VgnVCM1000001d04140aRCRD) del Ministerio de Economía y Competitividad (TIN2016-81836-REDT, 2017-2018).
+La red es la continuación natural de redes temáticas en convocatorias anteriores: DSDM 2005 (TIN2005-25886-E), DSDM 2008 (TIN2008-00889-E/TIN), TEDIS (TIN2011-15009-E) y MDE 2014 (TIN2014-53555-REDT).
 
 ## Miembros
 
@@ -40,8 +41,11 @@ Empresa                | Persona de contacto | Correo electrónico
 Investigador           | Universidad         | Correo electrónico
 -----------------------| ------------------- | ----------------------
 
+## Beneficios para los miembros
 
-## Cómo participar
+Los integrantes de la red MDE pueden obtener financiación para desplazamientos a las reuniones de la red y estancias breves de investigación entre grupos de investigación o empresas (viaje, hotel, dietas, etc.). La red MDE *no* puede financiar gastos de inscripción a congresos u otros gastos relacionados con la publicación de artículos (traducciones, costes open access, etc.).
+
+Para realizar una solicitud de gasto, contacta con el coordinador de la red (Robert Clarisó, rclariso [AT] uoc.edu) *antes* de realizar el gasto.
 
 ## Actividades 
 
