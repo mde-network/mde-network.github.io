@@ -36,16 +36,18 @@ Grupo de Investigación | Universidad  | Responsable en la red
 
 Empresa                | Persona de contacto | Correo electrónico
 -----------------------| ------------------- | ----------------------
-
+ | | 
 
 Investigador           | Universidad         | Correo electrónico
 -----------------------| ------------------- | ----------------------
+ | | 
+
 
 ## Beneficios para los miembros
 
 Los integrantes de la red MDE pueden obtener financiación para desplazamientos a las reuniones de la red y estancias breves de investigación entre grupos de investigación o empresas (viaje, hotel, dietas, etc.). La red MDE *no* puede financiar gastos de inscripción a congresos u otros gastos relacionados con la publicación de artículos (traducciones, costes open access, etc.).
 
-Para realizar una solicitud de gasto, contacta con el coordinador de la red (Robert Clarisó, rclariso [AT] uoc.edu) *antes* de realizar el gasto.
+Para realizar una solicitud de gasto, contacta con el coordinador de la red (Robert Clarisó, rclariso [AT] uoc.edu) **antes** de realizar el gasto.
 
 ## Actividades 
 
