@@ -14,7 +14,7 @@ Esta red temática ha sido financiada dentro de la convocatoria [Acciones de Din
 
 ## Miembros
 
-La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el ámbito MDE. Si quieres formar parte de la red, contacta con el [coordinador de la red](http://w.uoc.edu/robert-clariso).
+La red está abierta a la participación de investigadores, profesionales, y empresas interesadas en el desarrollo de software dirigido por modelos. Si quieres formar parte de la red, contacta con el coordinador de la red (Robert Clarisó, rclariso [AT] uoc.edu).
 
 Los grupos de investigación, empresas e investigadores que forman parte del equipo de trabajo de la red son los siguientes:
 
@@ -28,10 +28,20 @@ Grupo de Investigación | Universidad  | Responsable en la red
 [Modelum](http://www.modelum.es/) | Universidad de Murcia | Jesús J. García Molina  
 [MPI](http://imp.upc.edu) | Universidad Politécnica de Catalunya | Ernest Teniente        
 [Quercus](https://www.unex.es/investigacion/grupos/quercus) | Universidad de Extremadura | Pedro José Clemente
-[SOM Research Lab](http://som-research.uoc.edu) | Universitat Oberta de Catalunaya | [Robert Clarisó](https://som-research.uoc.edu/robert-clariso/)(*) 
+[SOM Research Lab](http://som-research.uoc.edu) | Universitat Oberta de Catalunaya | [Robert Clarisó](https://som-research.uoc.edu/robert-clariso/) (*) 
 [TaTAmI](https://tatami.dsic.upv.es/group/index.php) | Universitat Politècnica de València | Vicente Pelechano
 
 (*) Coordinador de la red
+
+Empresa                | Persona de contacto | Correo electrónico
+-----------------------| ------------------- | ----------------------
+
+
+Investigador           | Universidad         | Correo electrónico
+-----------------------| ------------------- | ----------------------
+
+
+## Cómo participar
 
 ## Actividades 
 
