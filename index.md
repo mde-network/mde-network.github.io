@@ -51,7 +51,13 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 
 ## Actividades 
 
-1. Reunión de la red MDE en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
+1. Track sobre Ingeniería del Software Dirigido por Modelos en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
+2. Reunión de la red MDE en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
+
+## Difusión en los medios
+
+1. Internet- Nota de prensa sobre la red MDE [enlace](https://www.uoc.edu/portal/es/news/actualitat/2017/104-ingenieria-software.html). Publicada en medios como [Computer World](http://www.computerworld.es/negocio/una-red-de-excelencia-en-ingenieria-del-software-en-espana-sera-liderada-por-la-uoc), [La Vanguardia](http://www.lavanguardia.com/vida/20170502/422221961140/uoc-liderara-red-que-estudiara-como-el-software-mejora-la-productividad.html), entre otros.
+2. Rádio - Entrevista sobre la red MDE en el Programa Marca España de RNE [enlace](http://www.rtve.es/alacarta/audios/marca-espana/marca-espana-ministerio-economia-universidades-apuestan-ingenieria-del-software/4014491/)
 
 ## Recursos
 
