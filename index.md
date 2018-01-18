@@ -2,7 +2,7 @@
 
 *18/07/2017:* Reunión de la red MDE en las JISBD'2017
 
-*5-6/2/2018:* Cursos sobre Minería de procesos y Models@Run-time (UOC, Barcelona)
+*5-6/2/2018:* [Cursos sobre Minería de procesos y Models@Run-time](https://mde-network.github.io/docs/Cursos_RedMDE_Barcelona_5-6-02-2018.pdf) (UOC, Barcelona)
 
 ## Presentación
 
@@ -55,7 +55,7 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 
 1. Track sobre Ingeniería del Software Dirigido por Modelos en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
 2. Reunión de la red MDE en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
-3. Cursos sobre Process Mining y Models@Run-time (5-6 de febrero de 2018, Barcelona)
+3. [Cursos sobre Process Mining y Models@Run-time](https://mde-network.github.io/docs/Cursos_RedMDE_Barcelona_5-6-02-2018.pdf) (5-6 de febrero de 2018, Barcelona)
 
 ## Difusión en los medios
 
