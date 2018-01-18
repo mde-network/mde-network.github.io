@@ -1,6 +1,7 @@
 ## Novedades
 
 *18/07/2017:* Reunión de la red MDE en las JISBD'2017
+
 *5-6/2/2018:* Cursos sobre Minería de procesos y Models@Run-time (UOC, Barcelona)
 
 ## Presentación
