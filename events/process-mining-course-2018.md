@@ -3,6 +3,7 @@ title: Curso "Una panorámica de la minería de procesos: de la práctica a los 
 ---
 
 **Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"**
+---
 
 # Presentación 
 
