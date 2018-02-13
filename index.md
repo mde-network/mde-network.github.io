@@ -1,6 +1,6 @@
 ## Novedades
 
-- *18/07/2017:* Reunión de la red MDE en las JISBD'2017 ()
+- *18/07/2017:* Reunión de la red MDE en las JISBD'2017 
 - *5/2/2018:* [Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"](https://mde-network.github.io/events/process-mining-course-2018) 
 - *6/2/2018:* [Curso "La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"](https://mde-network.github.io/events/models-runtime-course-2018) 
 
