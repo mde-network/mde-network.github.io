@@ -28,6 +28,7 @@ La motivación de este curso es proporcionar una introducción a este campo, y d
 
 ## Ponente
 
+![Josep Carmona](https://mde-network.github.io/img/JosepCarmona.png "Josep Carmona"){:style="float: left;margin-right: 10px;"}
 [Josep Carmona](https://www.cs.upc.edu/~jcarmona/) es profesor titular de universidad en el [Departamento de Ciencias de la Computación](http://www.cs.upc.edu/) de la [Universitat Politècnica de Catalunya](http://www.upc.edu/).
 
 Sus intereses de investigación incluyen la ciencia de datos y de procesos, métodos formales, business intelligence y la gestión de procesos de negocio. Es miembro del [IEEE Task Force on Process Mining](http://www.win.tue.nl/ieeetfpm/doku.php?id=start). Tiene una colaboración industrial con [Gas Natural Fenosa Distribución](http://www.gasnaturalfenosa.com/), y actualmente está promoviendo diferentes proyectos en el ámbito de la minería y modelado de procesos.
