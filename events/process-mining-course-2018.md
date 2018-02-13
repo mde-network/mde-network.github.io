@@ -12,9 +12,9 @@ El curso *"Una panorámica de la minería de procesos: de la práctica a los ret
 
 ## Materiales del curso
 1. [Module I - A practical introduction to Process Mining](https://mde-network.github.io/docs/courses/process-mining/Module_I-A_Practical_Introduction_to_Process_Mining.pdf)
-2. [Module II - Discovering Process Models](https://mde-network.github.io/docs/courses/process-mining/Module_II-A_Discovering_Process_Models.pdf)
-3. [Module III - Conformance](https://mde-network.github.io/docs/courses/process-mining/Module_III_Conformance.pdf)
-4. [Module IV - Extension](https://mde-network.github.io/docs/courses/process-mining/Module_IV_Extension.pdf)
+2. [Module II - Discovering Process Models](https://mde-network.github.io/docs/courses/process-mining/Module_II-Discovering_Process_Models.pdf)
+3. [Module III - Conformance](https://mde-network.github.io/docs/courses/process-mining/Module_III-Conformance.pdf)
+4. [Module IV - Extension](https://mde-network.github.io/docs/courses/process-mining/Module_IV-Extension.pdf)
 
 ## Resumen 
 La ciencia de datos es la profesión del futuro, porque las organizaciones que no sean capaces de usar los datos (y el big data) de forma inteligente no sobrevivirán. No es suficiente con centrarse en el almacenamiento de la información o en su análisis. El científico de datos también deberá correlacionar los datos con el análisis de procesos. La minería de procesos (process mining) salva las distancias entre las técnicas tradicionales de análisis de procesos basadas en modelos (p.ej. simulación y otras técnicas para la gestión de procesos de negocio) y las técnicas de análisis centradas en datos (como el aprendizaje computacional o la minería de datos). La minería de procesos busca confrontar los datos sobre los eventos (el comportamiento observado) y los procesos de negocio (creados manualmente o generados de forma automática). Hace poco que esta tecnología está disponible, pero puede aplicarse a cualquier tipo de procesos operativos (organizaciones y sistemas). Algunos ejemplos de aplicaciones pueden ser: analizar los procesos de tratamiento en hospitales, mejorar los procesos de atención al cliente en una multinacional, entender las pautas de navegación de los clientes en un portal de reservas, analizar los fallos en un sistema de gestión de equipajes, o mejorar la interfaz de usuario en una máquina de rayos X. Todas estas aplicaciones tienen en común que el comportamiento dinámico debe relacionarse con modelos de procesos.
