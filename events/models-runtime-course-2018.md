@@ -13,7 +13,7 @@ El curso *"La computación autónoma desde la perspectiva de los Modelos en tiem
 ## Materiales del curso
 1. [Parte 1 - Los modelos en tiempo de ejecución](https://mde-network.github.io/docs/courses/models-runtime/Parte1-Modelos_Tiempo_Ejecucion.pdf)
 2. [Parte 2 - La Computación Autónoma](https://mde-network.github.io/docs/courses/models-runtime/Parte2-Computacion_Autonoma.pdf)
-3. [Parte 3 - Ejemplos y Ámbitos de Aplicación](https://mde-network.github.io/docs/courses/models-runtime/Parte3-Ejemplos-Aplicaciones.pdf)
+3. [Parte 3 - Ejemplos y Ámbitos de Aplicación](https://mde-network.github.io/docs/courses/models-runtime/Parte3-Ejemplos_Aplicaciones.pdf)
 
 ## Resumen 
 Tradicionalmente, los enfoques de desarrollo de software dirigidos por modelos (DSDM) utilizan los modelos como los artefactos principales con los que diseñar, probar e implementar sistemas software. Una vez desarrollada la solución (típicamente a través de generación de código/transformaciones M2T), el software satisface un modelo concreto, inmutable y del que no es 'consciente'.
