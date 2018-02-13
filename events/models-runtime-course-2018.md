@@ -6,7 +6,9 @@ title: Curso "La computación autónoma desde la perspectiva de los Modelos en t
 
 ## Presentación 
 
-Este curso fue organizado por la red MDE en Barcelona el 6 de febrero de 2018.
+![Una fotografía del curso](https://mde-network.github.io/img/ModelsRuntime-Feb6.jpg "Fotografía del curso")
+
+El curso *"La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"* fue organizado por la red MDE y fue impartido por Joan Fons (UPV) en Barcelona el 6 de febrero de 2018.
 
 ## Materiales del curso
 1. [Parte 1 - Los modelos en tiempo de ejecución](https://mde-network.github.io/docs/courses/models-runtime/Parte1-Modelos_Tiempo_Ejecucion.pdf)
