@@ -2,7 +2,7 @@
 title: Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos" - Red MDE
 ---
 
-# Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"**
+# Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"
 
 ## Presentación 
 
