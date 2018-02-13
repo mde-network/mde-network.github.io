@@ -1,6 +1,10 @@
-# Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos
+---
+title: Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos" - Red MDE
+---
 
-Curso organizado por la red MDE en Barcelona el 5 de febrero de 2018.
+# Presentación 
+
+El curso *"Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"* fue organizado por la red MDE en Barcelona el 5 de febrero de 2018.
 
 ## Materiales del curso
 1. [Module I - A practical introduction to Process Mining](https://mde-network.github.io/docs/courses/process-mining/Module_I-A_Practical_Introduction_to_Process_Mining.pdf)
