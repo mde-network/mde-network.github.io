@@ -8,7 +8,7 @@ title: Curso "Una panorámica de la minería de procesos: de la práctica a los 
 
 ![Una fotografía del curso](https://mde-network.github.io/img/ProcessMining-Feb5.jpg "Fotografía del curso")
 
-Este curso fue organizado por la red MDE en Barcelona el 5 de febrero de 2018.
+El curso *"Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"* fue organizado por la red MDE y fue impartido por Josep Carmona (UPC) en Barcelona el 5 de febrero de 2018.
 
 ## Materiales del curso
 1. [Module I - A practical introduction to Process Mining](https://mde-network.github.io/docs/courses/process-mining/Module_I-A_Practical_Introduction_to_Process_Mining.pdf)
