@@ -24,6 +24,8 @@ En este curso se aplicarán estos principios para desarrollar software auto-adap
 
 ## Ponente
 
+![Joan Fons](https://mde-network.github.io/img/JoanFons.png "Joan Fons")
+
 [Joan Fons](http://www.pros.webs.upv.es/members/joan-fons/) es profesor Contratado Doctor en la [Universidad Politécnica de Valencia](http://www.upv.es/) desde el 2001. Alcanzó el grado de Doctor en el 2008, en el ámbito del desarrollo MDD y la Ingeniería Web.
 
 Es miembro del [Centro PROS](http://www.pros.webs.upv.es/), en el que trabaja en temas relacionados con la Inteligencia Ambiental y Computación Ubicua, la Internet de las Cosas y la Computación Autónoma, la Ingeniería Web y el Desarrollo Dirigido por Modelos. Ha publicado más de 60 artículos, incluyendo artículos en revistas como Computer, IEEE Pervasive Computing o Personal and Ubiquitous Computing, además de las conferencias más relevantes en su área de trabajo.
