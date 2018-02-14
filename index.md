@@ -36,11 +36,11 @@ Grupo de Investigación | Universidad  | Responsable en la red
 
 (*) Coordinador de la red
 
-Empresa                | Persona de contacto | Correo electrónico
+Empresa                | Persona de contacto | Datos de contacto
 -----------------------| ------------------- | ----------------------
- | | 
+[Metadev](http://metadev.pro/) | Pedro J. Molina | [http://pjmolina.com](http://pjmolina.com)
 
-Investigador           | Universidad         | Correo electrónico
+Investigador           | Universidad         | Datos de contacto
 -----------------------| ------------------- | ----------------------
  | | 
 
@@ -53,10 +53,11 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 
 ## Actividades 
 
-1. Track sobre Ingeniería del Software Dirigido por Modelos en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
+1. Track sobre Ingeniería del Software Dirigido por Modelos en las [JISBD'2017](https://fg.ull.es/sistedes2017/jisbd) (18 de julio de 2017, La Laguna)
 2. Reunión de la red MDE en las [JISBD'2017](https://fg.ull.es/sistedes2017/) (18 de julio de 2017, La Laguna)
 3. [Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"](https://mde-network.github.io/events/process-mining-course-2018) (5 de febrero de 2018, Barcelona)
 4. [Curso "La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"](https://mde-network.github.io/events/models-runtime-course-2018) (6 de febrero de 2018, Barcelona)
+5. [Track sobre Ingeniería del Software Dirigido por Modelos](http://congreso.us.es/sistedes2018/isdm/) en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17-19 de septiembre de 2018, Sevilla)
 
 ## Difusión en los medios
 
