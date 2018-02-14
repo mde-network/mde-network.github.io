@@ -38,7 +38,8 @@ Grupo de Investigación | Universidad  | Responsable en la red
 
 Empresa                | Persona de contacto | Datos de contacto
 -----------------------| ------------------- | ----------------------
-[Metadev](http://metadev.pro/) | Pedro J. Molina | [http://pjmolina.com](http://pjmolina.com)
+[Metadev](http://metadev.pro/) | Pedro J. Molina | [Web personal](http://pjmolina.com)
+[Atos] | Orlando Avila-García | [LinkedIn](https://www.linkedin.com/in/oavilagarcia/) - [ResearchGate](https://www.researchgate.net/profile/Orlando_Avila-Garcia)
 
 Investigador           | Universidad         | Datos de contacto
 -----------------------| ------------------- | ----------------------
