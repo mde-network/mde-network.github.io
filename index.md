@@ -23,16 +23,16 @@ Los grupos de investigación, empresas e investigadores que forman parte del equ
 
 Grupo de Investigación | Universidad  | Responsable en la red
 -----------------------| ------------ | ----------------------
-[Alarcos](http://alarcos.esi.uclm.es/) | Universidad de Castilla-La Mancha | Francisco Ruiz
-[ATENEA](http://atenea.lcc.uma.es/) | Universidad de Málaga | Antonio Vallecillo
-[Informática Aplicada TIC](http://acg.ual.es/) | Universidad de Almería | Luis Iribarne
-[Kybele](http://www.kybele.es) | Universidad Rey Juan Carlos | Juan Manuel Vara 
-[miso](http://miso.es/) | Universidad Autónoma de Madrid | Juan de Lara
-[Modelum](http://www.modelum.es/) | Universidad de Murcia | Jesús J. García Molina  
-[MPI](http://imp.upc.edu) | Universidad Politécnica de Catalunya | Ernest Teniente        
-[Quercus](https://www.unex.es/investigacion/grupos/quercus) | Universidad de Extremadura | Pedro José Clemente
+[Alarcos](http://alarcos.esi.uclm.es/) | Universidad de Castilla-La Mancha | [Francisco Ruiz](https://alarcos.esi.uclm.es/per/fruiz/)
+[ATENEA](http://atenea.lcc.uma.es/) | Universidad de Málaga | [Antonio Vallecillo](http://www.lcc.uma.es/~av/)
+[Informática Aplicada TIC](http://acg.ual.es/) | Universidad de Almería | [Luis Iribarne](https://w3.ual.es/personal/liribarn/)
+[Kybele](http://www.kybele.es) | Universidad Rey Juan Carlos | [Juan Manuel Vara](http://www.kybele.es/es/miembros-juan-manuel-vara/)
+[miso](http://miso.es/) | Universidad Autónoma de Madrid | [Juan de Lara](http://arantxa.ii.uam.es/~jlara/)
+[Modelum](http://www.modelum.es/) | Universidad de Murcia | [Jesús J. García Molina](http://dis.um.es/~jmolina/)
+[MPI](http://imp.upc.edu) | Universidad Politécnica de Catalunya | [Ernest Teniente](http://imp.upc.edu/en/members/ernest-teniente)
+[Quercus](http://quercusseg.unex.es/) | Universidad de Extremadura | [Pedro José Clemente](http://quercusseg.unex.es/)
 [SOM Research Lab](http://som-research.uoc.edu) | Universitat Oberta de Catalunya | [Robert Clarisó](https://som-research.uoc.edu/robert-clariso/) (*) 
-[TaTAmI](https://tatami.dsic.upv.es/group/index.php) |Universitat Politècnica de València | Vicente Pelechano
+[TaTAmI](https://tatami.dsic.upv.es/group/index.php) | Universitat Politècnica de València | [Vicente Pelechano](https://tatami.dsic.upv.es/group/members/pele.php)
 
 (*) Coordinador de la red
 
@@ -43,7 +43,7 @@ Empresa                | Persona de contacto | Datos de contacto
 
 Investigador           | Universidad         | Datos de contacto
 -----------------------| ------------------- | ----------------------
- | | 
+Fáber D. Giraldo Velásquez | Universidad de Quindio (Colombia) |  [Web](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000438383)
 
 
 ## Financiación
