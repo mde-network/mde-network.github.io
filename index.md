@@ -1,7 +1,7 @@
 ## Novedades
 
 - *17/9/2018:* Reunión de la red MDE en las JISBD'2018
-- *Octubre-Noviembre 2018:* [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (UAL)
+- *Octubre-Noviembre 2018:* [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (Universidad de Almería)
 
 ## Presentación
 
@@ -68,7 +68,7 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 ## Recursos
 
 ### Cursos
-- [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (Universidad de AlmeríaL, Octubre-Noviembre de 2018)
+- [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (Universidad de Almería, Octubre-Noviembre de 2018)
 
 ### Libros y recursos docentes
 
