@@ -1,8 +1,7 @@
 ## Novedades
 
-- *18/07/2017:* Reunión de la red MDE en las JISBD'2017 
-- *5/2/2018:* [Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"](https://mde-network.github.io/events/process-mining-course-2018) 
-- *6/2/2018:* [Curso "La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"](https://mde-network.github.io/events/models-runtime-course-2018) 
+- *17/9/2018:* Reunión de la red MDE en las JISBD'2018
+- *Octubre-Noviembre 2018: *[Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (UAL)
 
 ## Presentación
 
@@ -29,7 +28,7 @@ Grupo de Investigación | Universidad  | Responsable en la red
 [Kybele](http://www.kybele.es) | Universidad Rey Juan Carlos | [Juan Manuel Vara](http://www.kybele.es/es/miembros-juan-manuel-vara/)
 [miso](http://miso.es/) | Universidad Autónoma de Madrid | [Juan de Lara](http://arantxa.ii.uam.es/~jlara/)
 [Modelum](http://www.modelum.es/) | Universidad de Murcia | [Jesús J. García Molina](http://dis.um.es/~jmolina/)
-[MPI](http://imp.upc.edu) | Universidad Politécnica de Catalunya | [Ernest Teniente](http://imp.upc.edu/en/members/ernest-teniente)
+[IMP](http://imp.upc.edu) | Universidad Politécnica de Catalunya | [Ernest Teniente](http://imp.upc.edu/en/members/ernest-teniente)
 [Quercus](http://quercusseg.unex.es/) | Universidad de Extremadura | [Pedro José Clemente](http://quercusseg.unex.es/)
 [SOM Research Lab](http://som-research.uoc.edu) | Universitat Oberta de Catalunya | [Robert Clarisó](https://som-research.uoc.edu/robert-clariso/) (*) 
 [TaTAmI](https://tatami.dsic.upv.es/group/index.php) | Universitat Politècnica de València | [Vicente Pelechano](https://tatami.dsic.upv.es/group/members/pele.php)
@@ -59,6 +58,7 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 3. [Curso "Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos"](https://mde-network.github.io/events/process-mining-course-2018) (5 de febrero de 2018, Barcelona)
 4. [Curso "La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"](https://mde-network.github.io/events/models-runtime-course-2018) (6 de febrero de 2018, Barcelona)
 5. [Track sobre Ingeniería del Software Dirigido por Modelos](http://congreso.us.es/sistedes2018/isdm/) en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17-19 de septiembre de 2018, Sevilla)
+6. Reunión de la red MDE en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17 de septiembre de 2018, Sevilla)
 
 ## Difusión en los medios
 
@@ -66,6 +66,9 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 2. Rádio - Entrevista sobre la red MDE en el Programa Marca España de RNE [(enlace)](http://www.rtve.es/alacarta/audios/marca-espana/marca-espana-ministerio-economia-universidades-apuestan-ingenieria-del-software/4014491/)
 
 ## Recursos
+
+### Cursos
+- [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (Universidad de AlmeríaL, Octubre-Noviembre de 2018)
 
 ### Libros y recursos docentes
 
