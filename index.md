@@ -43,7 +43,7 @@ Investigador           | Universidad         | Datos de contacto
 -----------------------| ------------------- | ----------------------
 Fáber D. Giraldo Velásquez | Universidad de Quindio (Colombia) |  [Web](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000438383)
 María Francisca Rosique Contreras | Universidad Politécnica de Cartagena | [Web](https://scholar.google.com/citations?user=wGJ8xtEAAAAJ&hl=en)
-Grupo COAL (Daniel Calegari, Andrea Delgado) | Universidad de la República (Uruguay)| [Web] (http://www.fing.edu.uy/inco/grupos/coal)
+Grupo COAL (Daniel Calegari, Andrea Delgado) | Universidad de la República (Uruguay)| [Web](http://www.fing.edu.uy/inco/grupos/coal)
 
 
 ## Financiación
@@ -86,8 +86,8 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 
 ### Eventos científicos
 - [MODELS](http://www.modelsconference.org): ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
-- [STAF](http://www.informatik.uni-marburg.de/staf2017/): Software Technologies: Applications and Foundations
-- [ECMFA](http://ecmfaconference.wixsite.com/ecmfa2017): European Conference on Modelling Foundations and Applications
+- [STAF](https://staf2020.hvl.no): Software Technologies: Applications and Foundations
+- [ECMFA](https://staf2020.hvl.no/events/ecmfa2020/): European Conference on Modelling Foundations and Applications
 - [SLE](http://www.sleconf.org/): ACM SIGPLAN International Conference on Software Language Engineering
 
 ### Revistas científicas
