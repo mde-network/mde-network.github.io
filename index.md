@@ -1,7 +1,6 @@
 ## Novedades
 
-- *17/9/2018:* Reunión de la red MDE en las JISBD'2018
-- *Octubre-Noviembre 2018:* [Cursos Formativos del Doctorado en Informática](https://sites.google.com/view/cursosdoctoradoinformatica1819) (Universidad de Almería)
+- *2-4/9/2019*: Reunión de la red MDE en las [JISBD'2019](http://sistedes2019.spilab.es/jisbd/)
 
 ## Presentación
 
@@ -59,11 +58,14 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 4. [Curso "La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución"](https://mde-network.github.io/events/models-runtime-course-2018) (6 de febrero de 2018, Barcelona)
 5. [Track sobre Ingeniería del Software Dirigido por Modelos](http://congreso.us.es/sistedes2018/isdm/) en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17-19 de septiembre de 2018, Sevilla)
 6. Reunión de la red MDE en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17 de septiembre de 2018, Sevilla)
+7. Curso "Ingeniería del Software Dirigida por Modelos e Inteligencia Artificial" (9-11 de abril 2019, 2019, Montevideo, Uruguay)
+8. Reunión de la red MDE en las [JISBD'2019](http://sistedes2019.spilab.es/jisbd/) (2-4 de septiembre de 2019, Cáceres)
+
 
 ## Difusión en los medios
 
 1. Internet- Nota de prensa sobre la red MDE [(enlace)](https://www.uoc.edu/portal/es/news/actualitat/2017/104-ingenieria-software.html). Publicada en medios como [Computer World](http://www.computerworld.es/negocio/una-red-de-excelencia-en-ingenieria-del-software-en-espana-sera-liderada-por-la-uoc), [La Vanguardia](http://www.lavanguardia.com/vida/20170502/422221961140/uoc-liderara-red-que-estudiara-como-el-software-mejora-la-productividad.html), entre otros.
-2. Rádio - Entrevista sobre la red MDE en el Programa Marca España de RNE [(enlace)](http://www.rtve.es/alacarta/audios/marca-espana/marca-espana-ministerio-economia-universidades-apuestan-ingenieria-del-software/4014491/)
+2. Radio - Entrevista sobre la red MDE en el Programa Marca España de RNE [(enlace)](http://www.rtve.es/alacarta/audios/marca-espana/marca-espana-ministerio-economia-universidades-apuestan-ingenieria-del-software/4014491/)
 
 ## Recursos
 
