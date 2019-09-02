@@ -43,6 +43,8 @@ Investigador           | Universidad         | Datos de contacto
 -----------------------| ------------------- | ----------------------
 Fáber D. Giraldo Velásquez | Universidad de Quindio (Colombia) |  [Web](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000438383)
 María Francisca Rosique Contreras | Universidad Politécnica de Cartagena | [Web](https://scholar.google.com/citations?user=wGJ8xtEAAAAJ&hl=en)
+Grupo COAL (Daniel Calegari, Andrea Delgado) | Universidad de la República (Uruguay)| [Web] (http://www.fing.edu.uy/inco/grupos/coal)
+
 
 ## Financiación
 
