@@ -1,6 +1,6 @@
 ## Novedades
 
-- *25/11/2019*: [Jornada "Ingeniería del Software Dirigida por Modelos en la industria"](https://mde-network.github.io/events/mde-industry-day) (Barcelona)
+- *25/11/2019*: [Jornada "Ingeniería del Software Dirigida por Modelos en la industria"](https://mde-network.github.io/events/mde-industry-day) 
 
 
 ## Presentación
