@@ -32,6 +32,11 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 
 11:15 - 13:00 Presentaciones industriales
 
+* Pedro J Molina (Metadev): *"Essential as the core foundation for creating Web-based DSLs"*
+* Fabian Inthamoussu (GeneXus): *"GeneXus: software que hace software"*
+* Antonio Estevez (Open Canarias): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
+* José Miguel Pérez (Naver Labs): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
+
 13:00 - 14:00 Comida (cátering on site)
 
 14:00 - 15:00 Presentación de los grupos de investigación
@@ -44,7 +49,7 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 
 **Cómo llegar**: [Mapa de la sede](https://www.google.es/maps/dir//Av.+del+Tibidabo,+39,+08035+Barcelona/@41.4149071,2.1313266,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x12a4981b11c19b0b:0x6f5d399a124c4b7c!2m2!1d2.1335153!2d41.4149071!3e3)
 
-La sede de la jornada está situado cerca de las paradas de Ferrocarrils de la Generalitat (Avinguda de Tibidabo) o la línea L3 de metro (Penitents).
+La sede de la jornada está situado cerca de las paradas de [Ferrocarrils de la Generalitat](https://www.fgc.cat/es/) (Avinguda de Tibidabo) o la [línea L3 de metro](https://www.tmb.cat/es/home) (Penitents). 
 
 
 
