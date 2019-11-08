@@ -1,6 +1,7 @@
 ## Novedades
 
-- *2-4/9/2019*: Reunión de la red MDE en las [JISBD'2019](http://sistedes2019.spilab.es/jisbd/)
+- *25/11/2019*: [Jornada "Ingeniería del Software Dirigida por Modelos en la industria"](https://mde-network.github.io/events/mde-industry-day) (Barcelona)
+
 
 ## Presentación
 
