@@ -14,7 +14,7 @@ title: Jornada "Ingeniería del Software Dirigida por Modelos en la industria" -
 
 ![Sede de la jornada](https://mde-network.github.io/img/Sede_UOC.jpg "Sede de la jornada")
 
-La [Red de Excelencia en Ingeniería del Software Dirigida por Modelos (MDE)](https://mde-network.github.io) organiza una jornada para discutir y analizar el uso de la ingeniería del software dirigido por modelos en la industria. 
+La [Red de Excelencia en Ingeniería del Software Dirigida por Modelos (MDE)](https://mde-network.github.io) organiza una jornada para discutir y analizar el uso de la ingeniería del software dirigida por modelos en la industria. 
 En esta jornada participarán empresas vinculadas al desarrollo de software presentando sus experiencias de aplicación de tecnologías MDE, así como grupos de investigación presentando sus resultados más recientes.
 El objetivo es conocer más en profundidad como MDE se está usando en el mundo de la empresa, tener oportunidades de networking y explorar colaboraciones futuras.   
 
