@@ -28,22 +28,22 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 
 ## Programa de la jornada
 
-11:00 - 11:15 Presentación de la Jornada
+**11:00 - 11:15** Presentación de la Jornada
 
-11:15 - 13:00 Presentaciones industriales
+**11:15 - 13:00** Presentaciones industriales
 
 * Pedro J Molina ([Metadev](https://metadev.pro/)): *"Essential as the core foundation for creating Web-based DSLs"*
 * Fabian Inthamoussu ([GeneXus](https://www.genexus.com/es/)): *"GeneXus: software que hace software"*
 * Antonio Estevez ([Open Canarias](https://www.opencanarias.com/)): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
 * José Miguel Pérez-Álvarez ([Naver Labs](https://www.europe.naverlabs.com)): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
 
-13:00 - 14:00 Comida (cátering on site)
+**13:00 - 14:00** Comida (cátering on site)
 
-14:00 - 15:00 Presentación de los grupos de investigación
+**14:00 - 15:00** Presentación de los grupos de investigación
 
-15:00 - 16:45 Discusión
+**15:00 - 16:45** Discusión
 
-16:45 - 17:00 Clausura de la jornada
+**16:45 - 17:00** Clausura de la jornada
 
 ## Cuestiones prácticas para los asistentes
 
