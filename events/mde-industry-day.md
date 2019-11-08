@@ -5,7 +5,9 @@ title: Jornada "Ingeniería del Software Dirigida por Modelos en la industria" -
 # Jornada "Ingeniería del Software Dirigida por Modelos en la industria"
 
 **Fecha**: 25 de noviembre de 2019
+
 **Lugar**: Sede Central de la UOC - Av. Tibidabo 39, 08035 Barcelona
+
 **Horario**: 11:00-17:00
 
 ## Presentación 
@@ -16,11 +18,13 @@ La [Red de Excelencia en Ingeniería del Software Dirigida por Modelos (MDE)](ht
 En esta jornada participarán empresas vinculadas al desarrollo de software presentando sus experiencias de aplicación de tecnologías MDE, así como grupos de investigación presentando sus resultados más recientes.
 El objetivo es conocer más en profundidad como MDE se está usando en el mundo de la empresa, tener oportunidades de networking y explorar colaboraciones futuras.   
 
-Esta jornada está abierta a la participación de empresas, profesionales e investigadores interesados en el ámbito del desarrollo de software. Desde la Red MDE, os invitamos a participar.
+Esta jornada está abierta a la participación de empresas, profesionales e investigadores interesados en el ámbito del desarrollo de software. Desde la Red MDE, os invitamos a participar y asistir a esta Jornada.
 
 ## Inscripción
 
-La asistencia a la jornada es gratuita. Por motivos de organización, es necesario que los participantes se inscriban antes del **18/11/2029** en el siguiente enlace: [Formulario de inscripción]()
+La asistencia a la jornada es gratuita. 
+
+Por motivos de organización, es necesario que los participantes se inscriban antes del **18/11/2019** en el siguiente enlace: [Formulario de inscripción]()
 
 ## Programa de la jornada
 
