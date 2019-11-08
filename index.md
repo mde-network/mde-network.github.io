@@ -62,7 +62,7 @@ Para realizar una solicitud de gasto, contacta con el coordinador de la red (Rob
 6. Reunión de la red MDE en las [JISBD'2018](http://congreso.us.es/sistedes2018/jisbd/) (17 de septiembre de 2018, Sevilla)
 7. Curso "Ingeniería del Software Dirigida por Modelos e Inteligencia Artificial" (9-11 de abril 2019, 2019, Montevideo, Uruguay)
 8. Reunión de la red MDE en las [JISBD'2019](http://sistedes2019.spilab.es/jisbd/) (2-4 de septiembre de 2019, Cáceres)
-9. [Jornada "Ingeniería del Software Dirigida por Modelos en la industria"](https://mde-network.github.io/events/industry-mde-day) (25 de noviembre de 2019, Barcelona)
+9. [Jornada "Ingeniería del Software Dirigida por Modelos en la industria"](https://mde-network.github.io/events/mde-industry-day) (25 de noviembre de 2019, Barcelona)
 
 
 ## Difusión en los medios
