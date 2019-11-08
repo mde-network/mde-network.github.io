@@ -32,10 +32,10 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 
 11:15 - 13:00 Presentaciones industriales
 
-* Pedro J Molina (Metadev): *"Essential as the core foundation for creating Web-based DSLs"*
-* Fabian Inthamoussu (GeneXus): *"GeneXus: software que hace software"*
-* Antonio Estevez (Open Canarias): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
-* José Miguel Pérez-Álvarez (Naver Labs): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
+* Pedro J Molina ([Metadev](https://metadev.pro/)): *"Essential as the core foundation for creating Web-based DSLs"*
+* Fabian Inthamoussu ([GeneXus](https://www.genexus.com/es/)): *"GeneXus: software que hace software"*
+* Antonio Estevez ([Open Canarias](https://www.opencanarias.com/)): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
+* José Miguel Pérez-Álvarez ([Naver Labs](https://www.europe.naverlabs.com)): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
 
 13:00 - 14:00 Comida (cátering on site)
 
