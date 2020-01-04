@@ -24,7 +24,7 @@ Esta jornada está abierta a la participación de empresas, profesionales e inve
 
 La asistencia a la jornada es gratuita. 
 
-Por motivos de organización, es necesario que los participantes se inscriban antes del **18/11/2019** en el siguiente enlace: [Formulario de inscripción](https://forms.gle/BQeAaeFTstUA5VdA6)
+Por motivos de organización, es necesario que los participantes se inscriban antes del **18/11/2019** en el siguiente enlace: **Formulario de inscripción cerrado**
 
 ## Programa de la jornada
 
@@ -40,6 +40,16 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 **13:00 - 14:00** Comida (cátering on site)
 
 **14:00 - 15:00** Presentación de los grupos de investigación
+
+* Antonio Vallecillo - Grupo Atenea, Universidad de Málaga [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Atenea.pdf)
+* Grupo IDEA [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/IDEA.pdf)
+* Ernest Teniente - Grupo IMP, Universitat Politécnica de Catalunya [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/IMP.pdf)
+* Grupo Miso, Universidad Autónoma de Madrid [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Miso.pdf)
+* Grupo Modelum, Universidad de Murcia [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Modelum.pdf)
+* Grupo Quercus, Universidad de Extremadura [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Quercus.pdf)
+* Jordi Cabot - Grupo SOM, ICREA-Universitat Oberta de Catalunya [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/SOMTeam.pptx)
+* Pablo Parra - Grupo SRG, Universidad de Alcalá de Henares [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/SRG.pdf)
+* Vicente Pelechano - Grupo TaTAmi, Universitat Politècnica de València [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/TaTAmi.pdf)
 
 **15:00 - 16:45** Discusión
 
