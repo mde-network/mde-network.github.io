@@ -33,16 +33,18 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 **11:15 - 13:00** Presentaciones industriales
 
 * Pedro J Molina ([Metadev](https://metadev.pro/)): *"Essential as the core foundation for creating Web-based DSLs"*
+([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Metadev.pdf))
 * Fabian Inthamoussu ([GeneXus](https://www.genexus.com/es/)): *"GeneXus: software que hace software"*
 * Antonio Estevez ([Open Canarias](https://www.opencanarias.com/)): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
 * José Miguel Pérez-Álvarez ([Naver Labs](https://www.europe.naverlabs.com)): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
+([PDF](https://mde-network.github.io/docs/events/mde-industry-day/NaverLabs.pdf))
 
 **13:00 - 14:00** Comida (cátering on site)
 
 **14:00 - 15:00** Presentación de los grupos de investigación
 
 * Antonio Vallecillo - Grupo Atenea, Universidad de Málaga ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Atenea.pdf))
-* Antonia Reina - Grupo IDEA, Universidad de Sevilla ([Presentación](https://mde-network.github.io/docs/events/mde-industry-day/IDEA.pdf))
+* Antonia Reina - Grupo IDEA, Universidad de Sevilla ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/IDEA.pdf))
 * Ernest Teniente - Grupo IMP, Universitat Politécnica de Catalunya ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/IMP.pdf))
 * M. Elena Gómez-Martínez - Grupo Miso, Universidad Autónoma de Madrid ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Miso.pdf))
 * Jesús García Molina - Grupo Modelum, Universidad de Murcia ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Modelum.pdf))
