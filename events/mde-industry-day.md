@@ -41,15 +41,15 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 
 **14:00 - 15:00** Presentación de los grupos de investigación
 
-* Antonio Vallecillo - Grupo Atenea, Universidad de Málaga [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Atenea.pdf)
-* Antonia Reina - Grupo IDEA, Universidad de Sevilla [(Presentación)](https://mde-network.github.io/docs/events/mde-industry-day/IDEA.pdf)
-* Ernest Teniente - Grupo IMP, Universitat Politécnica de Catalunya [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/IMP.pdf)
-* M. Elena Gómez-Martínez - Grupo Miso, Universidad Autónoma de Madrid [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Miso.pdf)
-* Jesús García Molina - Grupo Modelum, Universidad de Murcia [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Modelum.pdf)
-* Pedro J. Clemente - Grupo Quercus, Universidad de Extremadura [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/Quercus.pdf)
-* Jordi Cabot - Grupo SOM, ICREA-Universitat Oberta de Catalunya [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/SOMTeam.pptx)
-* Pablo Parra - Grupo SRG, Universidad de Alcalá de Henares [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/SRG.pdf)
-* Vicente Pelechano - Grupo TaTAmi, Universitat Politècnica de València [Presentación](https://mde-network.github.io/docs/events/mde-industry-day/TaTAmi.pdf)
+* Antonio Vallecillo - Grupo Atenea, Universidad de Málaga ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Atenea.pdf))
+* Antonia Reina - Grupo IDEA, Universidad de Sevilla ([Presentación](https://mde-network.github.io/docs/events/mde-industry-day/IDEA.pdf))
+* Ernest Teniente - Grupo IMP, Universitat Politécnica de Catalunya ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/IMP.pdf))
+* M. Elena Gómez-Martínez - Grupo Miso, Universidad Autónoma de Madrid ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Miso.pdf))
+* Jesús García Molina - Grupo Modelum, Universidad de Murcia ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Modelum.pdf))
+* Pedro J. Clemente - Grupo Quercus, Universidad de Extremadura ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Quercus.pdf))
+* Jordi Cabot - Grupo SOM, ICREA-Universitat Oberta de Catalunya ([PPT](https://mde-network.github.io/docs/events/mde-industry-day/SOMTeam.pptx))
+* Pablo Parra - Grupo SRG, Universidad de Alcalá de Henares ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/SRG.pdf))
+* Vicente Pelechano - Grupo TaTAmi, Universitat Politècnica de València ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/TaTAmi.pdf))
 
 **15:00 - 16:45** Discusión
 
