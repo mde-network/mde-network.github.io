@@ -35,7 +35,7 @@ Por motivos de organización, es necesario que los participantes se inscriban an
 * Pedro J Molina ([Metadev](https://metadev.pro/)): *"Essential as the core foundation for creating Web-based DSLs"*
 ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/Metadev.pdf))
 * Fabian Inthamoussu ([GeneXus](https://www.genexus.com/es/)): *"GeneXus: software que hace software"*
-* Antonio Estevez ([Open Canarias](https://www.opencanarias.com/)): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"*
+* Antonio Estevez ([Open Canarias](https://www.opencanarias.com/)): *"Transformación de sistemas heredados o cómo cambiar el motor de un 747 en pleno vuelo"* ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/OpenCanarias.pdf))
 * José Miguel Pérez-Álvarez ([Naver Labs](https://www.europe.naverlabs.com)): *"Naver Labs Europe and Domain-Specific Behaviour Definition"*
 ([PDF](https://mde-network.github.io/docs/events/mde-industry-day/NaverLabs.pdf))
 
